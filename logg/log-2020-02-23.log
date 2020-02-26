@@ -1,0 +1,11 @@
+18:33:11.294 [main] DEBUG beta.demo2 - debug
+18:33:11.297 [main] ERROR beta.demo2 - error
+18:33:11.298 [main] FATAL beta.demo2 - fatal
+18:33:11.298 [main] TRACE beta.demo2 - trace
+21:32:54.125 [main] DEBUG beta.demo2 - debug
+21:32:54.131 [main] ERROR beta.demo2 - error
+21:32:54.133 [main] FATAL beta.demo2 - fatal
+21:32:54.133 [main] TRACE beta.demo2 - trace
+21:33:06.483 [main] DEBUG beta.demo2 - debug
+21:33:06.487 [main] ERROR beta.demo2 - error
+21:33:06.487 [main] FATAL beta.demo2 - fatal
